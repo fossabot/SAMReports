@@ -61,3 +61,9 @@ SAMReports
 	License Check		Arne Fokkema	http://xtravirt.com/powershell-veeam-br-%E2%80%93-get-total-days-before-license%C2%A0expires
 	Charting		Sean Duffy	http://www.simple-talk.com/sysadmin/powershell/building-a-daily-systems-report-email-with-powershell/
 #>
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faveronesis%2FSAMReports.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faveronesis%2FSAMReports?ref=badge_shield)
+
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faveronesis%2FSAMReports.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faveronesis%2FSAMReports?ref=badge_large)
